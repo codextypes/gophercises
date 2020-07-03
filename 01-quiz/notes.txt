@@ -1,0 +1,7 @@
+- Go concepts to learn
+  - Channels
+  - Go Routines
+  - Flags package
+  - CSV package
+  - OS package
+  - Time package
